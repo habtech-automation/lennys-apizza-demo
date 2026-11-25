@@ -1,3 +1,4 @@
-# Coucou Bakehouse demo website
+# Lenny's Apizza, London demo website
 
-One page demo site built by Habtech for Coucou Bakehouse, Grand Rapids. Single index.html, no build step.
+Demo one page website built by Habtech for Lenny's Apizza, London.
+Static site, open index.html. Demo preview only, not the live website.
